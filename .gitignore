@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/
+.tmp/
+tmp/
+*.log
+bridges/
+workspaces/
+friends.json
+*.zip
+.DS_Store
+Thumbs.db
